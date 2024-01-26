@@ -33,7 +33,7 @@ This Jupyter Notebook file is used to test the functionality of `run.py` by prov
 - Python 3.x
 - Jupyter Notebook
 - Libraries: TensorFlow, NumPy, Pandas (for `traindata.ipynb` and `file_predict.ipynb`), Pickle (for saving scaler parameters)
-
+- Use python version- 3.10.13 if possible(most of python versions dont support keras and tensorflow simultaneously)
 Make sure to install the required libraries using:
-pip install tensorflow numpy pandas
+pip install tensorflow numpy pandas 
 
