@@ -25,9 +25,8 @@ This Jupyter Notebook file is used to test the functionality of `run.py` by prov
 
 ## Usage
 
-1. Open and run `traindata.ipynb` to preprocess data, train the LSTM model, and save model weights and scaler parameters.
-2. Execute `run.py` to interactively input a dataset file and get heart rate predictions using the trained model.
-3. Use `file_predict.ipynb` to check the functionality of `run.py` with a small test dataset.
+1. Open and run `traindata.ipynb` to understand how to preprocess data, train the LSTM model, and save model weights and scaler parameters.
+2. Execute `run.py` to interactively <b>input the desired dataset file</b> and get heart rate predictions using the trained model by replacing the line 8 of code with your 'testdata.csv' file. 
 
 ## Requirements
 
